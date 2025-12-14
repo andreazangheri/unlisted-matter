@@ -36,14 +36,15 @@ npm install
 ```
 
 3. **Ottieni la tua chiave API di Gemini**
-```bash
+
 Puoi generarla gratuitamente da Google AI Studio:  
-https://aistudio.google.com/api-keys
-```
+[https://aistudio.google.com/api-keys](https://aistudio.google.com/api-keys)
+
 
 4. **Crea il file di configurazione locale e inserisci la tua chiave**
-```bash
+
 # Crea il file .env.local e aggiungi la tua chiave
+```bash
 echo "GOOGLE_API_KEY=your_key_here" > .env.local
 ```
 
