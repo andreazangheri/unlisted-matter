@@ -6,6 +6,7 @@ export interface DraftPortfolio {
     uniqueStatement: string;
     howYouThink: string;
     capabilities: string;
+    learning: string;
     projects: string;
     failures: string;
   };
@@ -15,6 +16,7 @@ export interface DraftPortfolio {
     uniqueStatement: string;
     methodology: string;
     capabilities: string[];
+    learning: string;
     projects: string;
     failures: string;
     uniqueness: string;

@@ -19,6 +19,7 @@ Genera SOLO un JSON valido (parseable) con questi campi esatti:
   "essence": "chi sei veramente (1-2 paragrafi, tono conversazionale)",
   "methodology": "il tuo processo risolutivo (1 paragrafo)",
   "capabilities": ["capability 1", "capability 2", "capability 3"],
+  "learning": "il tuo ciclo di apprendimento e pratica deliberata (1 paragrafo)",
   "projects": "narrativa dei progetti con impatti reali (1-2 paragrafi)",
   "failures": "lezioni dai fallimenti (1-2 paragrafi)",
   "uniqueness": "dichiarazione della tua impronta unica (1 paragrafo)",
